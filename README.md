@@ -19,12 +19,11 @@
         <style>
             #randomAGCImg{
                 width: 50%;
-                text-align: center;
             }
         </style>
     </head>
     <body>
-        <div id="randomACG"></div>
+        <div id="randomACG" style="text-align: center;"></div>
     </body>
     <script src="https://cdn.jsdelivr.net/gh/CSneko/randomImage@main/ACG.js"></script>
 </html>
